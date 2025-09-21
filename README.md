@@ -82,6 +82,7 @@ Example session:
 ------------------------------------------------------------
 Example Directory Layout
 ------------------------------------------------------------
+```
 stories_out/
   └── Wisdom_and_The_Path/
       ├── story.txt
@@ -91,7 +92,7 @@ hashtags/
   │   └── Wisdom_and_The_Path.txt -> ../../stories_out/Wisdom_and_The_Path/story.txt
   ├── #Enlightenment/
   │   └── Wisdom_and_The_Path.txt -> ../../stories_out/Wisdom_and_The_Path/story.txt
-
+```
 ------------------------------------------------------------
 Why KAG?
 ------------------------------------------------------------
